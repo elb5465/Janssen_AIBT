@@ -45,3 +45,4 @@ If you want to continue to the instructions **without connecting to the device**
 8. **To turn off the Raspberry Pi:** Find the attached button and **hold it down for 3 seconds**. You should see the green light on the Raspberry Pi begin to blink about 10 times and then disappear. At that point **unplug the power supply from the Raspberry Pi**.
 
 
+ 
