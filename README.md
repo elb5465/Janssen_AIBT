@@ -7,9 +7,9 @@
 
 ## How to Install the Android App
 
-- Go to a browser on the phone and locate the '.apk' file using the link above or its alternative location. 
-- Download the '.apk' file onto the phone.
-- You will be prompted to install the app, continue to do so.
+1. Go to a browser on the phone and locate the '.apk' file using the link above, or any other platform you may have saved it to. 
+2. Download the '.apk' file onto the phone.
+3. You will be prompted to install the app, continue to do so.
 
 ### Trouble-Shooting:
 
