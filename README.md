@@ -32,15 +32,16 @@ If the above path doesn't work for you, try the following:
 
 
 
-## How to Use
+## How to Use the Android app and Raspberry Pi Together
 
 1. **Turn on the Raspberry Pi:**  Connect the Raspberry Pi via micro-USB to a  power supply of around ***5V*** and it will power on and begin running the necessary programs automatically (Most portable battery packs are suitable for this, but check their specifications).
-2. **Go to settings** and **select Bluetooth settings** (On the Android phone)
-3. **Tap 'Pair new device'** and **select the Raspberry Pi** 
-(May take a minute for the device to show up if the Raspberry Pi was just powered on)
+2. **Go to settings** and **select Bluetooth settings** (On the Android phone).
+3. **Tap 'Pair new device'** and **select the Raspberry Pi**.
+(May take a minute for the device to show up if the Raspberry Pi was just powered on.)
 5. **Open the Janssen AIBT Android app**.
 (The paired device should now be displayed at the top of the homescreen.)
 6. **Tap the device to connect** and follow the in-device instructions to step through the app. 
 If you want to continue to the instructions **without connecting to the device**, you can just click the 'next' arrow to step through the app without sending signals to the Raspberry Pi.
 8. **To turn off the Raspberry Pi:** Find the attached button and **hold it down for 3 seconds**. You should see the green light on the Raspberry Pi begin to blink about 10 times and then disappear. At that point **unplug the power supply from the Raspberry Pi**.
+
 
