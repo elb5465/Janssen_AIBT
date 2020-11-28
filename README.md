@@ -1,4 +1,4 @@
-# Janssen_AutoInjector_AndroidApp
+# Janssen_AIBT
 The .apk file for download for the Janssen Pharmaceuticals Bluetooth Auto Injector.
 
 To use, just download, open in your files app, and install.
