@@ -16,6 +16,7 @@
 If your browser does not allow you to download applications from the internet, try the following:
 
 **From *nextpit.com*:** "*How to install apps from outside the Google Play Store*"
+
 1. Go to Settings.
 2. Find the Security & privacy option and tap on it.
 3. Scroll down and look for 'install from unknown apps'. If it's not there, try under 'more'.
