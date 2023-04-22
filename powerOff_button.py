@@ -1,10 +1,5 @@
-# do “nano /etc/rc.local” and add the following lines above the “exit(0)” command:
-# [BELOW LINE IS TO RUN THE PYTHON BLUETOOTH SCRIPT AS A BACKGROUND PROCESS]
+# In the RPi, do “nano /etc/rc.local” and add the following line above the “exit(0)” command to start the main script in the background:
 # python3 <filepath/YOURfilename.py> &
-
-# create and name a file “powerOff_button.py”, using the code below these comments
-# [BELOW LINE IS TO RUN THE POWER BUTTON SCRIPT AS A BACKGROUND PROCESS]
-# python3 <filepath/powerOff_button.py> &
 # --------------------------------------------------------------------------
 
 from gpiozero import Button
