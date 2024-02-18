@@ -4,7 +4,7 @@
 
 # Janssen AIBT Operations Manual
 
-**Janssen AIBT** is the Bluetooth Android app for Janssen's one-press patient-controlled injectors. This is meant to be used in conjunction with a Raspberry Pi 'Zero W', which is running the Python scripts located in the repository: https://github.com/elb5465/Janssen_AIBT. There, you will also find this manual and the Android app download (the '.apk' file). Alternatively, these files can be downloaded and saved remotely in another storage provider like Google Drive or Box.
+**Janssen AIBT** is the Bluetooth Android app for Janssen's one-press patient-controlled injectors. This is a proof-of-concept meant to be used in conjunction with a Raspberry Pi 'Zero W', which is running the Python scripts located in the repository: https://github.com/elb5465/Janssen_AIBT. There, you will also find this manual and the Android app download (the '.apk' file). Alternatively, these files can be downloaded and saved remotely in another storage provider like Google Drive or Box.
 
 
 # 
